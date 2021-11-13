@@ -1,4 +1,4 @@
-# pmp-testing-automation
+# PMP-QA-Automation
 
 pmp-testing-automation
 
