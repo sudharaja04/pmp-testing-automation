@@ -1,4 +1,4 @@
-# pmp-testing-automation
+# PMP-QA-Automation
 
 pmp-testing-automation
 
@@ -42,7 +42,7 @@ Use the built-in continuous integration in GitLab.
 
 ***
 
-# Editing this README
+# Editing this README file
 
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://gitlab.com/-/experiment/new_project_readme_content:7e254f5df26b028e5ea5d689cc94d531?https://www.makeareadme.com/) for this template.
 
